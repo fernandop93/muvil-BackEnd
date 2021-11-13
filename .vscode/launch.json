@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MuvilApplication<muvil>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.muvil.muvil.MuvilApplication",
+            "projectName": "muvil",
+            "args": ""
+        }
+    ]
+}
